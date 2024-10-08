@@ -2,5 +2,9 @@
 name = "octolang"
 version = "0.1.0"
 edition = "2021"
+readme = "README.md"
+authors = ["mondobe"]
+keywords = ["language", "pl"]
+repository = "https://github.com/mondobe/octolang"
 
 [dependencies]
